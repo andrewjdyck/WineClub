@@ -1,0 +1,23 @@
+---
+title: "crosstalk"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+## R Markdown
+```{r cars}
+ratings <- read.csv('./data/ratings.csv', stringsAsFactors = FALSE)
+overview <- read.csv('./data/overview.csv', stringsAsFactors = FALSE)
+wines <- read.csv('./data/wines.csv', stringsAsFactors = FALSE)
+```
+
+```{r}
+ratings %>%
+  group_by(Person) %>%
+  summarise(avg_rating = mean(Rating, na.rm=TRUE), var_rating = sd(Rating, na.rm=TRUE)) %>%
+  arrange(desc(avg_rating))
+```

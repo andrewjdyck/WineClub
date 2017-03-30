@@ -1,0 +1,542 @@
+"WineNight","WineType","Person","WineNumber","Rating"
+"JA1","Riesling","Jen",1,5
+"JA1","Riesling","Ben",1,7
+"JA1","Riesling","Molly",1,6
+"JA1","Riesling","Rosemary",1,7
+"JA1","Riesling","Amy",1,8
+"JA1","Riesling","Chris",1,5
+"JA1","Riesling","Ian",1,8.5
+"JA1","Riesling","Kevin",1,8
+"JA1","Riesling","Andy",1,7
+"JA1","Riesling","Jen",2,8
+"JA1","Riesling","Ben",2,7.5
+"JA1","Riesling","Molly",2,7
+"JA1","Riesling","Rosemary",2,8
+"JA1","Riesling","Amy",2,8
+"JA1","Riesling","Chris",2,7
+"JA1","Riesling","Ian",2,8
+"JA1","Riesling","Kevin",2,7
+"JA1","Riesling","Andy",2,7
+"JA1","Riesling","Jen",3,8
+"JA1","Riesling","Ben",3,9
+"JA1","Riesling","Molly",3,8
+"JA1","Riesling","Rosemary",3,8
+"JA1","Riesling","Amy",3,7.75
+"JA1","Riesling","Chris",3,8
+"JA1","Riesling","Ian",3,7
+"JA1","Riesling","Kevin",3,6.5
+"JA1","Riesling","Andy",3,7
+"JA1","Riesling","Jen",4,8.5
+"JA1","Riesling","Ben",4,6.5
+"JA1","Riesling","Molly",4,6
+"JA1","Riesling","Rosemary",4,7
+"JA1","Riesling","Amy",4,9
+"JA1","Riesling","Chris",4,7.5
+"JA1","Riesling","Ian",4,7
+"JA1","Riesling","Kevin",4,7.5
+"JA1","Riesling","Andy",4,7
+"JA1","Riesling","Jen",5,9
+"JA1","Riesling","Ben",5,7
+"JA1","Riesling","Molly",5,6.5
+"JA1","Riesling","Rosemary",5,9
+"JA1","Riesling","Amy",5,7
+"JA1","Riesling","Chris",5,7
+"JA1","Riesling","Ian",5,7
+"JA1","Riesling","Kevin",5,5
+"JA1","Riesling","Andy",5,9
+"JA1","Riesling","Jen",6,7
+"JA1","Riesling","Ben",6,5
+"JA1","Riesling","Molly",6,4
+"JA1","Riesling","Rosemary",6,6
+"JA1","Riesling","Amy",6,8
+"JA1","Riesling","Chris",6,6
+"JA1","Riesling","Ian",6,7
+"JA1","Riesling","Kevin",6,8
+"JA1","Riesling","Andy",6,6
+"JA1","Riesling","Jen",7,8
+"JA1","Riesling","Ben",7,5
+"JA1","Riesling","Molly",7,6.5
+"JA1","Riesling","Rosemary",7,7
+"JA1","Riesling","Amy",7,8
+"JA1","Riesling","Chris",7,6.5
+"JA1","Riesling","Ian",7,7.5
+"JA1","Riesling","Kevin",7,8
+"JA1","Riesling","Andy",7,8
+"JA1","Riesling","Jen",8,4
+"JA1","Riesling","Ben",8,3
+"JA1","Riesling","Molly",8,2
+"JA1","Riesling","Rosemary",8,5
+"JA1","Riesling","Amy",8,6
+"JA1","Riesling","Chris",8,6.5
+"JA1","Riesling","Ian",8,6
+"JA1","Riesling","Kevin",8,10
+"JA1","Riesling","Andy",8,5
+"JA1","Riesling","Jen",9,4
+"JA1","Riesling","Ben",9,2
+"JA1","Riesling","Molly",9,6
+"JA1","Riesling","Rosemary",9,5
+"JA1","Riesling","Amy",9,3
+"JA1","Riesling","Chris",9,6.5
+"JA1","Riesling","Ian",9,8
+"JA1","Riesling","Kevin",9,3
+"JA1","Riesling","Andy",9,3
+"KR1","Pinot Grigio","Kevin",1,8
+"KR1","Pinot Grigio","Amy",1,7.5
+"KR1","Pinot Grigio","Chris",1,7.5
+"KR1","Pinot Grigio","Rosemary",1,8
+"KR1","Pinot Grigio","Andy",1,8.5
+"KR1","Pinot Grigio","Jen",1,8
+"KR1","Pinot Grigio","Ben",1,7
+"KR1","Pinot Grigio","Molly",1,6
+"KR1","Pinot Grigio","Kevin",2,6
+"KR1","Pinot Grigio","Amy",2,5.5
+"KR1","Pinot Grigio","Chris",2,7
+"KR1","Pinot Grigio","Rosemary",2,6.5
+"KR1","Pinot Grigio","Andy",2,9
+"KR1","Pinot Grigio","Jen",2,5
+"KR1","Pinot Grigio","Ben",2,5
+"KR1","Pinot Grigio","Molly",2,6
+"KR1","Pinot Grigio","Kevin",3,5.5
+"KR1","Pinot Grigio","Amy",3,6.5
+"KR1","Pinot Grigio","Chris",3,7
+"KR1","Pinot Grigio","Rosemary",3,6
+"KR1","Pinot Grigio","Andy",3,5
+"KR1","Pinot Grigio","Jen",3,6.5
+"KR1","Pinot Grigio","Ben",3,7
+"KR1","Pinot Grigio","Molly",3,6
+"KR1","Pinot Grigio","Kevin",4,5.5
+"KR1","Pinot Grigio","Amy",4,5
+"KR1","Pinot Grigio","Chris",4,6.5
+"KR1","Pinot Grigio","Rosemary",4,6
+"KR1","Pinot Grigio","Andy",4,4
+"KR1","Pinot Grigio","Jen",4,8
+"KR1","Pinot Grigio","Ben",4,4
+"KR1","Pinot Grigio","Molly",4,6
+"KR1","Pinot Grigio","Kevin",5,4
+"KR1","Pinot Grigio","Amy",5,5
+"KR1","Pinot Grigio","Chris",5,5.5
+"KR1","Pinot Grigio","Rosemary",5,4
+"KR1","Pinot Grigio","Andy",5,3
+"KR1","Pinot Grigio","Jen",5,7
+"KR1","Pinot Grigio","Ben",5,3
+"KR1","Pinot Grigio","Molly",5,6
+"KR1","Pinot Grigio","Kevin",6,9
+"KR1","Pinot Grigio","Amy",6,8.5
+"KR1","Pinot Grigio","Chris",6,8
+"KR1","Pinot Grigio","Rosemary",6,9
+"KR1","Pinot Grigio","Andy",6,5
+"KR1","Pinot Grigio","Jen",6,7.5
+"KR1","Pinot Grigio","Ben",6,9
+"KR1","Pinot Grigio","Molly",6,8.5
+"KR1","Pinot Grigio","Kevin",7,5
+"KR1","Pinot Grigio","Amy",7,5.5
+"KR1","Pinot Grigio","Chris",7,4
+"KR1","Pinot Grigio","Rosemary",7,2
+"KR1","Pinot Grigio","Andy",7,7
+"KR1","Pinot Grigio","Jen",7,6
+"KR1","Pinot Grigio","Ben",7,2
+"KR1","Pinot Grigio","Molly",7,6
+"KR1","Pinot Grigio","Kevin",8,5
+"KR1","Pinot Grigio","Amy",8,5.5
+"KR1","Pinot Grigio","Chris",8,7.5
+"KR1","Pinot Grigio","Rosemary",8,5
+"KR1","Pinot Grigio","Andy",8,6
+"KR1","Pinot Grigio","Jen",8,7.5
+"KR1","Pinot Grigio","Ben",8,8
+"KR1","Pinot Grigio","Molly",8,8.5
+"B1","Sauvignon Blanc","Dan",1,6
+"B1","Sauvignon Blanc","Susan",1,4
+"B1","Sauvignon Blanc","Kevin",1,6
+"B1","Sauvignon Blanc","Andy",1,5
+"B1","Sauvignon Blanc","Jen",1,4
+"B1","Sauvignon Blanc","Ben",1,7
+"B1","Sauvignon Blanc","Chris",1,8
+"B1","Sauvignon Blanc","Amy",1,4
+"B1","Sauvignon Blanc","Rosemary",1,7
+"B1","Sauvignon Blanc","Molly",1,5
+"B1","Sauvignon Blanc","Dan",2,4
+"B1","Sauvignon Blanc","Susan",2,7
+"B1","Sauvignon Blanc","Kevin",2,3
+"B1","Sauvignon Blanc","Andy",2,6
+"B1","Sauvignon Blanc","Jen",2,6
+"B1","Sauvignon Blanc","Ben",2,6
+"B1","Sauvignon Blanc","Chris",2,6
+"B1","Sauvignon Blanc","Amy",2,3
+"B1","Sauvignon Blanc","Rosemary",2,5
+"B1","Sauvignon Blanc","Molly",2,7
+"B1","Sauvignon Blanc","Dan",3,6.5
+"B1","Sauvignon Blanc","Susan",3,8.5
+"B1","Sauvignon Blanc","Kevin",3,5
+"B1","Sauvignon Blanc","Andy",3,5
+"B1","Sauvignon Blanc","Jen",3,7
+"B1","Sauvignon Blanc","Ben",3,7
+"B1","Sauvignon Blanc","Chris",3,5
+"B1","Sauvignon Blanc","Amy",3,5
+"B1","Sauvignon Blanc","Rosemary",3,6
+"B1","Sauvignon Blanc","Molly",3,6
+"B1","Sauvignon Blanc","Dan",4,6
+"B1","Sauvignon Blanc","Susan",4,6
+"B1","Sauvignon Blanc","Kevin",4,4
+"B1","Sauvignon Blanc","Andy",4,6
+"B1","Sauvignon Blanc","Jen",4,6
+"B1","Sauvignon Blanc","Ben",4,4
+"B1","Sauvignon Blanc","Chris",4,6
+"B1","Sauvignon Blanc","Amy",4,4
+"B1","Sauvignon Blanc","Rosemary",4,6
+"B1","Sauvignon Blanc","Molly",4,6
+"B1","Sauvignon Blanc","Dan",5,8
+"B1","Sauvignon Blanc","Susan",5,9
+"B1","Sauvignon Blanc","Kevin",5,4
+"B1","Sauvignon Blanc","Andy",5,7
+"B1","Sauvignon Blanc","Jen",5,6
+"B1","Sauvignon Blanc","Ben",5,2
+"B1","Sauvignon Blanc","Chris",5,7
+"B1","Sauvignon Blanc","Amy",5,2
+"B1","Sauvignon Blanc","Rosemary",5,5
+"B1","Sauvignon Blanc","Molly",5,4
+"B1","Sauvignon Blanc","Dan",6,2
+"B1","Sauvignon Blanc","Susan",6,8
+"B1","Sauvignon Blanc","Kevin",6,4
+"B1","Sauvignon Blanc","Andy",6,5
+"B1","Sauvignon Blanc","Jen",6,5
+"B1","Sauvignon Blanc","Ben",6,2
+"B1","Sauvignon Blanc","Chris",6,3
+"B1","Sauvignon Blanc","Amy",6,3
+"B1","Sauvignon Blanc","Rosemary",6,6
+"B1","Sauvignon Blanc","Molly",6,6
+"B1","Sauvignon Blanc","Dan",7,6
+"B1","Sauvignon Blanc","Susan",7,6.5
+"B1","Sauvignon Blanc","Kevin",7,7
+"B1","Sauvignon Blanc","Andy",7,5
+"B1","Sauvignon Blanc","Jen",7,7
+"B1","Sauvignon Blanc","Ben",7,8
+"B1","Sauvignon Blanc","Chris",7,7
+"B1","Sauvignon Blanc","Amy",7,6
+"B1","Sauvignon Blanc","Rosemary",7,5
+"B1","Sauvignon Blanc","Molly",7,6
+"B1","Sauvignon Blanc","Dan",8,7
+"B1","Sauvignon Blanc","Susan",8,10
+"B1","Sauvignon Blanc","Kevin",8,6
+"B1","Sauvignon Blanc","Andy",8,7
+"B1","Sauvignon Blanc","Jen",8,8
+"B1","Sauvignon Blanc","Ben",8,9
+"B1","Sauvignon Blanc","Chris",8,7
+"B1","Sauvignon Blanc","Amy",8,4
+"B1","Sauvignon Blanc","Rosemary",8,4
+"B1","Sauvignon Blanc","Molly",8,9
+"B1","Sauvignon Blanc","Dan",9,7
+"B1","Sauvignon Blanc","Susan",9,9
+"B1","Sauvignon Blanc","Kevin",9,7
+"B1","Sauvignon Blanc","Andy",9,7
+"B1","Sauvignon Blanc","Jen",9,8
+"B1","Sauvignon Blanc","Ben",9,8
+"B1","Sauvignon Blanc","Chris",9,7.5
+"B1","Sauvignon Blanc","Amy",9,4
+"B1","Sauvignon Blanc","Rosemary",9,3
+"B1","Sauvignon Blanc","Molly",9,8
+"MB2","Prosecco","Kevin",1,8
+"MB2","Prosecco","Susan",1,5
+"MB2","Prosecco","Dan",1,5
+"MB2","Prosecco","Andy",1,8
+"MB2","Prosecco","Jen",1,7
+"MB2","Prosecco","Rosemary",1,7
+"MB2","Prosecco","Molly",1,8
+"MB2","Prosecco","Ben",1,8
+"MB2","Prosecco","Kevin",2,7
+"MB2","Prosecco","Susan",2,9
+"MB2","Prosecco","Dan",2,8
+"MB2","Prosecco","Andy",2,8
+"MB2","Prosecco","Jen",2,7
+"MB2","Prosecco","Rosemary",2,5
+"MB2","Prosecco","Molly",2,8
+"MB2","Prosecco","Ben",2,8
+"MB2","Prosecco","Kevin",3,5
+"MB2","Prosecco","Susan",3,4
+"MB2","Prosecco","Dan",3,5
+"MB2","Prosecco","Andy",3,4.5
+"MB2","Prosecco","Jen",3,6
+"MB2","Prosecco","Rosemary",3,4
+"MB2","Prosecco","Molly",3,4
+"MB2","Prosecco","Ben",3,3
+"MB2","Prosecco","Kevin",4,6
+"MB2","Prosecco","Susan",4,5
+"MB2","Prosecco","Dan",4,3
+"MB2","Prosecco","Andy",4,7
+"MB2","Prosecco","Jen",4,6
+"MB2","Prosecco","Rosemary",4,6
+"MB2","Prosecco","Molly",4,8
+"MB2","Prosecco","Ben",4,7
+"MB2","Prosecco","Kevin",5,6
+"MB2","Prosecco","Susan",5,6
+"MB2","Prosecco","Dan",5,6
+"MB2","Prosecco","Andy",5,6
+"MB2","Prosecco","Jen",5,7
+"MB2","Prosecco","Rosemary",5,6
+"MB2","Prosecco","Molly",5,6
+"MB2","Prosecco","Ben",5,7
+"MB2","Prosecco","Kevin",6,7
+"MB2","Prosecco","Susan",6,7
+"MB2","Prosecco","Dan",6,9
+"MB2","Prosecco","Andy",6,7
+"MB2","Prosecco","Jen",6,9
+"MB2","Prosecco","Rosemary",6,5
+"MB2","Prosecco","Molly",6,8
+"MB2","Prosecco","Ben",6,8
+"MB2","Prosecco","Kevin",7,8
+"MB2","Prosecco","Susan",7,8
+"MB2","Prosecco","Dan",7,7
+"MB2","Prosecco","Andy",7,6
+"MB2","Prosecco","Jen",7,7
+"MB2","Prosecco","Rosemary",7,5
+"MB2","Prosecco","Molly",7,7
+"MB2","Prosecco","Ben",7,8
+"MB2","Prosecco","Kevin",8,7
+"MB2","Prosecco","Susan",8,4
+"MB2","Prosecco","Dan",8,7
+"MB2","Prosecco","Andy",8,5
+"MB2","Prosecco","Jen",8,7
+"MB2","Prosecco","Rosemary",8,4
+"MB2","Prosecco","Molly",8,6
+"MB2","Prosecco","Ben",8,5
+"KR2","Rose","Ben",1,5
+"KR2","Rose","Molly",1,6
+"KR2","Rose","Susan",1,5
+"KR2","Rose","Dan",1,3
+"KR2","Rose","Jen",1,5
+"KR2","Rose","Andy",1,5
+"KR2","Rose","Chris",1,6
+"KR2","Rose","Amy",1,7
+"KR2","Rose","Kevin",1,4
+"KR2","Rose","Rosemary",1,6
+"KR2","Rose","Ian",1,4
+"KR2","Rose","Ben",2,4
+"KR2","Rose","Molly",2,5
+"KR2","Rose","Susan",2,7
+"KR2","Rose","Dan",2,4
+"KR2","Rose","Jen",2,8
+"KR2","Rose","Andy",2,7
+"KR2","Rose","Chris",2,7
+"KR2","Rose","Amy",2,5
+"KR2","Rose","Kevin",2,7
+"KR2","Rose","Rosemary",2,7
+"KR2","Rose","Ian",2,7
+"KR2","Rose","Ben",3,7
+"KR2","Rose","Molly",3,7
+"KR2","Rose","Susan",3,8
+"KR2","Rose","Dan",3,6
+"KR2","Rose","Jen",3,2
+"KR2","Rose","Andy",3,7
+"KR2","Rose","Chris",3,6
+"KR2","Rose","Amy",3,3
+"KR2","Rose","Kevin",3,6
+"KR2","Rose","Rosemary",3,5
+"KR2","Rose","Ian",3,4
+"KR2","Rose","Ben",4,7
+"KR2","Rose","Molly",4,4
+"KR2","Rose","Susan",4,4
+"KR2","Rose","Dan",4,2
+"KR2","Rose","Jen",4,5
+"KR2","Rose","Andy",4,2
+"KR2","Rose","Chris",4,3
+"KR2","Rose","Amy",4,9
+"KR2","Rose","Kevin",4,6
+"KR2","Rose","Rosemary",4,4
+"KR2","Rose","Ian",4,5
+"KR2","Rose","Ben",5,7
+"KR2","Rose","Molly",5,5
+"KR2","Rose","Susan",5,4
+"KR2","Rose","Dan",5,7
+"KR2","Rose","Jen",5,6
+"KR2","Rose","Andy",5,5
+"KR2","Rose","Chris",5,5
+"KR2","Rose","Amy",5,2
+"KR2","Rose","Kevin",5,4
+"KR2","Rose","Rosemary",5,8
+"KR2","Rose","Ian",5,6
+"KR2","Rose","Ben",6,2
+"KR2","Rose","Molly",6,5
+"KR2","Rose","Susan",6,3
+"KR2","Rose","Dan",6,1
+"KR2","Rose","Jen",6,4
+"KR2","Rose","Andy",6,4
+"KR2","Rose","Chris",6,2
+"KR2","Rose","Amy",6,0
+"KR2","Rose","Kevin",6,2
+"KR2","Rose","Rosemary",6,2
+"KR2","Rose","Ian",6,3
+"KR2","Rose","Ben",7,7
+"KR2","Rose","Molly",7,6
+"KR2","Rose","Susan",7,4
+"KR2","Rose","Dan",7,5
+"KR2","Rose","Jen",7,6
+"KR2","Rose","Andy",7,6
+"KR2","Rose","Chris",7,5
+"KR2","Rose","Amy",7,3
+"KR2","Rose","Kevin",7,4
+"KR2","Rose","Rosemary",7,3
+"KR2","Rose","Ian",7,8
+"KR2","Rose","Ben",8,4
+"KR2","Rose","Molly",8,6
+"KR2","Rose","Susan",8,8
+"KR2","Rose","Dan",8,8
+"KR2","Rose","Jen",8,6
+"KR2","Rose","Andy",8,7
+"KR2","Rose","Chris",8,6
+"KR2","Rose","Amy",8,5
+"KR2","Rose","Kevin",8,3
+"KR2","Rose","Rosemary",8,4
+"KR2","Rose","Ian",8,6
+"KR2","Rose","Ben",9,3
+"KR2","Rose","Molly",9,6
+"KR2","Rose","Susan",9,4
+"KR2","Rose","Dan",9,6
+"KR2","Rose","Jen",9,7
+"KR2","Rose","Andy",9,6
+"KR2","Rose","Chris",9,6
+"KR2","Rose","Amy",9,4
+"KR2","Rose","Kevin",9,3
+"KR2","Rose","Rosemary",9,3
+"KR2","Rose","Ian",9,5
+"KR2","Rose","Ben",10,4
+"KR2","Rose","Molly",10,6
+"KR2","Rose","Susan",10,5
+"KR2","Rose","Dan",10,6
+"KR2","Rose","Jen",10,7
+"KR2","Rose","Andy",10,6
+"KR2","Rose","Chris",10,7
+"KR2","Rose","Amy",10,4
+"KR2","Rose","Kevin",10,4
+"KR2","Rose","Rosemary",10,6
+"KR2","Rose","Ian",10,4
+"KR2","Rose","Ben",11,6
+"KR2","Rose","Molly",11,7
+"KR2","Rose","Susan",11,6
+"KR2","Rose","Dan",11,7
+"KR2","Rose","Jen",11,6
+"KR2","Rose","Andy",11,6
+"KR2","Rose","Chris",11,7
+"KR2","Rose","Amy",11,4
+"KR2","Rose","Kevin",11,6
+"KR2","Rose","Rosemary",11,4
+"KR2","Rose","Ian",11,4
+"MB3","Malbec","Susan",1,NA
+"MB3","Malbec","Jen",1,NA
+"MB3","Malbec","Dan",1,NA
+"MB3","Malbec","Kevin",1,NA
+"MB3","Malbec","Kamara",1,NA
+"MB3","Malbec","Amy",1,NA
+"MB3","Malbec","Andy",1,NA
+"MB3","Malbec","Rosemary",1,NA
+"MB3","Malbec","Chris",1,NA
+"MB3","Malbec","Molly",1,NA
+"MB3","Malbec","Ben",1,NA
+"MB3","Malbec","Susan",2,NA
+"MB3","Malbec","Jen",2,NA
+"MB3","Malbec","Dan",2,NA
+"MB3","Malbec","Kevin",2,NA
+"MB3","Malbec","Kamara",2,NA
+"MB3","Malbec","Amy",2,NA
+"MB3","Malbec","Andy",2,NA
+"MB3","Malbec","Rosemary",2,NA
+"MB3","Malbec","Chris",2,NA
+"MB3","Malbec","Molly",2,NA
+"MB3","Malbec","Ben",2,NA
+"MB3","Malbec","Susan",3,NA
+"MB3","Malbec","Jen",3,NA
+"MB3","Malbec","Dan",3,NA
+"MB3","Malbec","Kevin",3,NA
+"MB3","Malbec","Kamara",3,NA
+"MB3","Malbec","Amy",3,NA
+"MB3","Malbec","Andy",3,NA
+"MB3","Malbec","Rosemary",3,NA
+"MB3","Malbec","Chris",3,NA
+"MB3","Malbec","Molly",3,NA
+"MB3","Malbec","Ben",3,NA
+"MB3","Malbec","Susan",4,NA
+"MB3","Malbec","Jen",4,NA
+"MB3","Malbec","Dan",4,NA
+"MB3","Malbec","Kevin",4,NA
+"MB3","Malbec","Kamara",4,NA
+"MB3","Malbec","Amy",4,NA
+"MB3","Malbec","Andy",4,NA
+"MB3","Malbec","Rosemary",4,NA
+"MB3","Malbec","Chris",4,NA
+"MB3","Malbec","Molly",4,NA
+"MB3","Malbec","Ben",4,NA
+"MB3","Malbec","Susan",5,NA
+"MB3","Malbec","Jen",5,NA
+"MB3","Malbec","Dan",5,NA
+"MB3","Malbec","Kevin",5,NA
+"MB3","Malbec","Kamara",5,NA
+"MB3","Malbec","Amy",5,NA
+"MB3","Malbec","Andy",5,NA
+"MB3","Malbec","Rosemary",5,NA
+"MB3","Malbec","Chris",5,NA
+"MB3","Malbec","Molly",5,NA
+"MB3","Malbec","Ben",5,NA
+"MB3","Malbec","Susan",6,NA
+"MB3","Malbec","Jen",6,NA
+"MB3","Malbec","Dan",6,NA
+"MB3","Malbec","Kevin",6,NA
+"MB3","Malbec","Kamara",6,NA
+"MB3","Malbec","Amy",6,NA
+"MB3","Malbec","Andy",6,NA
+"MB3","Malbec","Rosemary",6,NA
+"MB3","Malbec","Chris",6,NA
+"MB3","Malbec","Molly",6,NA
+"MB3","Malbec","Ben",6,NA
+"MB3","Malbec","Susan",7,NA
+"MB3","Malbec","Jen",7,NA
+"MB3","Malbec","Dan",7,NA
+"MB3","Malbec","Kevin",7,NA
+"MB3","Malbec","Kamara",7,NA
+"MB3","Malbec","Amy",7,NA
+"MB3","Malbec","Andy",7,NA
+"MB3","Malbec","Rosemary",7,NA
+"MB3","Malbec","Chris",7,NA
+"MB3","Malbec","Molly",7,NA
+"MB3","Malbec","Ben",7,NA
+"MB3","Malbec","Susan",8,NA
+"MB3","Malbec","Jen",8,NA
+"MB3","Malbec","Dan",8,NA
+"MB3","Malbec","Kevin",8,NA
+"MB3","Malbec","Kamara",8,NA
+"MB3","Malbec","Amy",8,NA
+"MB3","Malbec","Andy",8,NA
+"MB3","Malbec","Rosemary",8,NA
+"MB3","Malbec","Chris",8,NA
+"MB3","Malbec","Molly",8,NA
+"MB3","Malbec","Ben",8,NA
+"MB3","Malbec","Susan",9,NA
+"MB3","Malbec","Jen",9,NA
+"MB3","Malbec","Dan",9,NA
+"MB3","Malbec","Kevin",9,NA
+"MB3","Malbec","Kamara",9,NA
+"MB3","Malbec","Amy",9,NA
+"MB3","Malbec","Andy",9,NA
+"MB3","Malbec","Rosemary",9,NA
+"MB3","Malbec","Chris",9,NA
+"MB3","Malbec","Molly",9,NA
+"MB3","Malbec","Ben",9,NA
+"MB3","Malbec","Susan",10,NA
+"MB3","Malbec","Jen",10,NA
+"MB3","Malbec","Dan",10,NA
+"MB3","Malbec","Kevin",10,NA
+"MB3","Malbec","Kamara",10,NA
+"MB3","Malbec","Amy",10,NA
+"MB3","Malbec","Andy",10,NA
+"MB3","Malbec","Rosemary",10,NA
+"MB3","Malbec","Chris",10,NA
+"MB3","Malbec","Molly",10,NA
+"MB3","Malbec","Ben",10,NA
+"MB3","Malbec","Susan",11,NA
+"MB3","Malbec","Jen",11,NA
+"MB3","Malbec","Dan",11,NA
+"MB3","Malbec","Kevin",11,NA
+"MB3","Malbec","Kamara",11,NA
+"MB3","Malbec","Amy",11,NA
+"MB3","Malbec","Andy",11,NA
+"MB3","Malbec","Rosemary",11,NA
+"MB3","Malbec","Chris",11,NA
+"MB3","Malbec","Molly",11,NA
+"MB3","Malbec","Ben",11,NA
