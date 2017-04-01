@@ -15,9 +15,9 @@ wn <- gs_url('https://docs.google.com/spreadsheets/d/1GjNgtt6unKIJW9BceFrk2qq2ul
 ratings <- gs_read(ss=wn, ws='Ratings')
 wines <- gs_read(ss=wn, ws='WinesList')
 overview <- gs_read(ss=wn, ws='Overview')
-# write.csv(ratings, './data/ratings.csv', row.names=FALSE)
-# write.csv(wines, './data/wines.csv', row.names=FALSE)
-# write.csv(overview, './data/overview.csv', row.names=FALSE)
+write.csv(ratings, './data/ratings.csv', row.names=FALSE)
+write.csv(wines, './data/wines.csv', row.names=FALSE)
+write.csv(overview, './data/overview.csv', row.names=FALSE)
 
 fulldata <- ratings %>%
   inner_join(overview) %>%

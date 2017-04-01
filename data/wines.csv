@@ -1,4 +1,4 @@
-"WineNight","WineNumber","Winery","Name","Grape/Style","Year","Country","LocationDetail","Price"
+"WineNight","WineNumber","Winery","WineName","GrapeStyle","Year","Country","LocationDetail","Price"
 "JA1",1,"Deinhard","Piesporter","Riesling",2006,"Germany",NA,NA
 "JA1",2,"Hardys","Stamp of Australia","Riesling Gewurztraminer",2012,"Australia",NA,NA
 "JA1",3,"Piesporter Treppechen",NA,"Riesling",2012,"Germany",NA,NA
@@ -74,3 +74,12 @@
 "MB3",9,"Melipal",NA,NA,2014,"Argentina","Mendoza",NA
 "MB3",10,"Trivento",NA,NA,NA,"Argentina",NA,NA
 "MB3",11,"Copper Moon",NA,NA,NA,"Canada",NA,NA
+"JA2",1,"Screw it!",NA,"Shiraz",2016,"Canada","BC",NA
+"JA2",2,"Banrock station",NA,"Shiraz",2016,"Australia","SA",NA
+"JA2",3,"Jacob's creek","Reserve","Shiraz",2013,"Australia","Barossa",NA
+"JA2",4,"Heritage road","Bloodstone Shiraz","Shiraz",2015,"Australia",NA,NA
+"JA2",5,"Punch in the face",NA,"Shiraz",2015,"Australia",NA,NA
+"JA2",6,"Peller estates",NA,"Shiraz",NA,"Canada",NA,NA
+"JA2",7,"Jam jar",NA,"Shiraz",2015,"South Africa",NA,NA
+"JA2",8,"It's Wine O'clock somewhere",NA,"Shiraz",2016,"Canada","BC",NA
+"JA2",9,"Jackson Triggs",NA,"Shiraz",2016,"Canada","BC",NA

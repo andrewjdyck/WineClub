@@ -1,11 +1,11 @@
-"Number","WineNight","Hosts","Wines","Ratings","Date","Wine","RedWhite","Have data","Notes"
-1,"B1","Ben","Done","Done",NA,"Sauvignon Blanc","White",1,NA
-2,"JA1","Jen & Andy","Done","Done",NA,"Riesling","White",1,NA
-3,"KR1","Rosemary & Kevin","Done","Done","Nov 29, 2013","Pinto Grigio","White",1,"Mullin"
-4,"MB1","Ben & Molly",NA,NA,"Sep 14, 2015","Sémillon","White",0,"Cabin & gas fire"
-5,"MB2","Ben & Molly","Done","Done",NA,"Prosecco","White",1,"Frontenac apartment"
-6,"KR2","Rosemary & Kevin","Done","Done","July 24, 2015","Rosé","White",1,"Summer outdoors"
-7,"C1","Chris",NA,NA,"Jan 18, 2014","Merlot","Red",1,NA
-8,"MB3","Ben & Molly",NA,NA,"Nov 5, 2015","Malbec","Red",1,"Frontenac apt & ending at O'Hanlons"
-9,"C2","Chris",NA,NA,"Jan 21, 2017","Cabernet Sauvignon","Red",1,"Ukranian food by Janis"
-10,"JA2","Jen & Andy",NA,NA,"March 31, 2017","Syrah","Red",0,NA
+"Number","WineNight","Hosts","Date","Wine","RedWhite","Notes"
+1,"B1","Ben",NA,"Sauvignon Blanc","White",NA
+2,"JA1","Jen & Andy",NA,"Riesling","White",NA
+3,"KR1","Rosemary & Kevin","Nov 29, 2013","Pinto Grigio","White","Mullin"
+4,"MB1","Ben & Molly","Sep 14, 2015","Sémillon","White","Cabin & gas fire"
+5,"MB2","Ben & Molly",NA,"Prosecco","White","Frontenac apartment"
+6,"KR2","Rosemary & Kevin","July 24, 2015","Rosé","White","Summer outdoors"
+7,"C1","Chris","Jan 18, 2014","Merlot","Red",NA
+8,"MB3","Ben & Molly","Nov 5, 2015","Malbec","Red","Frontenac apt & ending at O'Hanlons"
+9,"C2","Chris","Jan 21, 2017","Cabernet Sauvignon","Red","Ukranian food by Janis"
+10,"JA2","Jen & Andy","March 31, 2017","Syrah","Red",NA

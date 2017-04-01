@@ -12,9 +12,9 @@ library(knitr)
 
 ## Ratings by person
 ```{r cars, echo=FALSE}
-ratings <- read.csv('./data/ratings.csv', stringsAsFactors = FALSE)
-overview <- read.csv('./data/overview.csv', stringsAsFactors = FALSE)
-wines <- read.csv('./data/wines.csv', stringsAsFactors = FALSE)
+ratings <- read.csv('../data/ratings.csv', stringsAsFactors = FALSE)
+overview <- read.csv('../data/overview.csv', stringsAsFactors = FALSE)
+wines <- read.csv('../data/wines.csv', stringsAsFactors = FALSE)
 
 fulldata <- ratings %>%
   inner_join(overview) %>%
