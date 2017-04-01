@@ -1,0 +1,60 @@
+---
+title: "Wine Club Stats"
+output: html_document
+date: "March 2017"
+---
+  
+  ```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(knitr)
+```
+
+## Ratings by person
+```{r cars, echo=FALSE}
+ratings <- read.csv('./data/ratings.csv', stringsAsFactors = FALSE)
+overview <- read.csv('./data/overview.csv', stringsAsFactors = FALSE)
+wines <- read.csv('./data/wines.csv', stringsAsFactors = FALSE)
+
+fulldata <- ratings %>%
+  inner_join(overview) %>%
+  inner_join(wines)
+```
+
+# Highest and lowest ratings
+```{r, echo=FALSE}
+highlow <- fulldata %>%
+  select(Person, Rating, Wine, Winery) %>%
+  arrange(desc(Rating)) %>%
+  head(10)
+kable(highlow)
+```
+
+## Red vs. White
+```{r, echo=FALSE}
+rw <- fulldata %>%
+  group_by(RedWhite) %>%
+  summarise(avg_rating = mean(Rating))
+kable(rw)
+```
+
+## Top grape / wine style
+```{r, echo=FALSE}
+topstyle <- fulldata %>%
+  group_by(RedWhite, Wine) %>%
+  summarise(avg_rating = mean(Rating)) %>%
+  arrange(desc(avg_rating))
+kable(topstyle)
+```
+
+## Top wine for each wine night
+```{r, echo=FALSE}
+topwn <- fulldata %>%
+  group_by(Winery, WineNight, WineNumber) %>%
+  summarise(Rating = mean(Rating)) %>%
+  group_by(WineNight) %>%
+  top_n(1, wt=Rating)
+kable(topwn)
+```
+
+

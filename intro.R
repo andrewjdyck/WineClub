@@ -24,26 +24,27 @@ fulldata <- ratings %>%
   inner_join(wines)
 
 
-
-
-ratings %>%
-  group_by(Person) %>%
-  summarise(avg_rating = mean(Rating, na.rm=TRUE), var_rating = sd(Rating, na.rm=TRUE)) %>%
-  arrange(desc(avg_rating))
-
 # Highest and lowest ratings
-ratings %>%
-  arrange(desc(Rating))
+fulldata %>%
+  select(Person, Rating, Wine, Winery) %>%
+  arrange(desc(Rating)) %>%
+  head(10)
 
-ratings %>%
-  arrange(Rating)
 
+## Red vs. White
 fulldata %>%
   group_by(RedWhite) %>%
   summarise(avg_rating = mean(Rating))
 
+## Top grape / wine style
 fulldata %>%
   group_by(RedWhite, Wine) %>%
+  summarise(avg_rating = mean(Rating)) %>%
+  arrange(desc(avg_rating))
+
+## Top wine for each wine night
+fulldata %>%
+  group_by(Winery, WineNight) %>%
   summarise(avg_rating = mean(Rating)) %>%
   arrange(desc(avg_rating))
 
@@ -51,6 +52,7 @@ fulldata %>%
 pd1 <- ratings %>%
   group_by(WineNight, WineNumber) %>%
   summarise(avg_rating = mean(Rating))
+
 
 ggplot(pd1, aes(x=WineNumber, y=avg_rating, colour=WineNight)) + 
   geom_line()
